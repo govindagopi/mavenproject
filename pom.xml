@@ -28,11 +28,9 @@
   <finalName>WebProject</finalName>
   </build>
   <distributionManagement>
-  <repositories>
-     <repository>
+       <repository>
        <id>maven-public</id>
        <url>http://192.168.13.130:8081/repository/maven-public/</url>
     </repository>
-  </repositories>
-  </distributionManagement>
+    </distributionManagement>
 </project>
